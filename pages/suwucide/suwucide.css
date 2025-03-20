@@ -3,10 +3,10 @@
         background-color: rgb(0, 0, 0);
     }
     to {
-        background-color: #8B0000; /* bloody red */
+        background-color: #4b0202; /* bloody red */
     }
 }
 
 body {
-    animation: backgroundTransition 5s ease-in-out forwards;
+    animation: backgroundTransition 3s ease-in-out forwards;
 }

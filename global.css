@@ -2,3 +2,7 @@ body {
     background-color: black;
     color: aquamarine;
 }
+
+.hiddenlink {
+    text-decoration: none;
+}
